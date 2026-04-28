@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:accel-kitchen.com)",
+      "Bash(npx skills *)"
+    ],
+    "additionalDirectories": [
+      "C:\\Users\\kaduo\\.claude\\plans"
+    ]
+  }
+}

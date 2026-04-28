@@ -1,0 +1,31 @@
+# Local Claude Code settings
+.claude/settings.local.json
+.claude/skills/
+
+# Data files (typically large, generated)
+*.dat
+*.h5
+*.hdf5
+*.csv
+*.npy
+*.npz
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
