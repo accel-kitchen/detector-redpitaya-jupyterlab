@@ -3,6 +3,7 @@
 .claude/skills/
 
 # Data files (typically large, generated)
+data/
 *.dat
 *.h5
 *.hdf5
